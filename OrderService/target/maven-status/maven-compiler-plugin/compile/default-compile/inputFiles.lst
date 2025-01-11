@@ -1,9 +1,0 @@
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\config\RestTemplateConfig.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\exception\OrderNotFoundException.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\repository\OrderRepository.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\entity\Order.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\exception\GlobalExceptionHandler.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\client\CustomerClient.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\service\OrderService.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\OrderServiceApplication.java
-C:\Users\pc\eclipse-workspace\OrderService\src\main\java\com\example\order\controller\OrderController.java
